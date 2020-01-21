@@ -1,7 +1,7 @@
 /*
 *Coded By:
-*Muktadir Rahman
-*Student id: 13 05 097
+*Ranak Roy Chowdhury
+*Student id: 13 05 061
 *Sec: A2
 */
 #include "iGraphics.h"
